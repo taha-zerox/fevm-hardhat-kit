@@ -1,0 +1,5 @@
+Wallet Ethereum Address: 0x735b7262C99FFE85e3C44D77B1E4aDf96e999B16
+deploying "SimpleCoin" (tx: 0xa968af82272615d0bf4fdaf44546686ccc3d232b1c0c0b18a25e4cc9dbffa014)...: deployed at 0x5Ec75f12104d85591768312a992555459b94d0B6 with 47055669 gas
+deploying "FilecoinMarketConsumer" (tx: 0x35697af4e6297cd322a687f321435f89f40728a1d9f85e023b4cf9d918ff7002)...: deployed at 0x2d238d6Cd151C1d9c1076b769c4e4cDF6a43E432 with 86699958 gas
+deploying "DealRewarder" (tx: 0xfd0be8ab8928a8fd17ab2d6e2a7ee8c88947fe4a2c4874da14c23f7c090915dd)...: deployed at 0x82b4C2F22896a3fAaE0C6A6B4A36008f0A4723C7 with 79065738 gas
+deploying "DealClient" (tx: 0x0076ab61dd3991d3b7e110b1c408b09568e9ad47e18f1b8ece9442765a5147f9)...: deployed at 0x41a02d250ECD4553ebbe2e3252e5F6C7233952ED with 153118666 gas
